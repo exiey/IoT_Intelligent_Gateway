@@ -201,7 +201,7 @@ edge_computing:
 ## 📞 联系我们
 - 项目维护者：exiey
 - 问题反馈：提交 [Issues](https://github.com/exiey/IoT_Intelligent_Gateway/issues)
-- 邮件沟通：xxx@example.com（可替换为实际邮箱）
+- 邮件沟通：1316198251@qq.com
 
 ---
 ⭐ 如果该项目对你有帮助，欢迎点 Star 支持！
